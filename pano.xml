@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node13" apprev="21009" appversion="7.1.10" hassounds="0">
+  <panorama id="node13">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:29" nodeid="node13" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-359.31" id="Point01" description="" target="-97.9/-4.5/100.0" url="{node15}" skinid="ht_node" tilt="1.72"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:31" nodeid="node15" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-16.37" id="Point01" description="" target="89.0/-2.2/127.0" url="{node14}" skinid="ht_node" tilt="-1.97"/>
+      <hotspot title="" pan="-281.32" id="Point02" description="" target="172.0/0.0/100.0" url="{node13}" skinid="ht_node" tilt="-4.03"/>
+      <hotspot title="" pan="-192.21" id="Point04" description="" target="89.5/-1.0/100.0" url="{node6}" skinid="ht_node" tilt="-1.04"/>
+      <hotspot title="" pan="-104.25" id="Point03" description="" target="-96.3/-5.6/100.0" url="{node7}" skinid="ht_node" tilt="-4.71"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:30" nodeid="node14" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-97.61" id="Point01" description="" target="173.0/0.0/126.6" url="{node15}" skinid="ht_node" tilt="-1.46"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:42" nodeid="node6" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-182.37" id="Point01" description="" target="12.0/0.0/136.9" url="{node5}" skinid="ht_node" tilt="-3.74"/>
+      <hotspot title="" pan="-85.41" id="Point02" description="" target="-8.2/-1.8/126.6" url="{node15}" skinid="ht_node" tilt="-1.84"/>
+      <hotspot title="" pan="-254.49" id="Point03" description="" target="-78.0/0.0/126.6" url="{node1}" skinid="ht_node" tilt="-0.55"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:32" nodeid="node1" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-356.61" id="Point02" description="" target="-9.0/0.0/126.6" url="{node2}" skinid="ht_node" tilt="0.24"/>
+      <hotspot title="" pan="-254.35" id="Point01" description="" target="-79.0/0.0/136.9" url="{node6}" skinid="ht_node" tilt="0"/>
+      <hotspot title="" pan="-125.83" id="Point03" description="" target="66.0/0.0/108.2" url="{node11}" skinid="ht_node" tilt="-1.47"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:33" nodeid="node2" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-1.73" id="Point01" description="" target="0.0/0.0/100.0" url="{node3}" skinid="ht_node" tilt="1.39"/>
+      <hotspot title="" pan="-179.2" id="Point02" description="" target="179.0/0.0/117.0" url="{node1}" skinid="ht_node" tilt="-0.69"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:34" nodeid="node3" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-181.49" id="Point01" description="" target="-176.0/0.0/100.0" url="{node2}" skinid="ht_node" tilt="0.06"/>
+      <hotspot title="" pan="-273.5" id="Point02" description="" target="165.0/0.0/126.6" url="{node4}" skinid="ht_node" tilt="0.29"/>
+      <hotspot title="" pan="-93.19" id="Point03" description="" target="94.5/-6.5/100.0" url="{node9}" skinid="ht_node" tilt="-2.76"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:37" nodeid="node4" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-16.74" id="Point01" description="" target="-93.0/0.0/117.0" url="{node3}" skinid="ht_node" tilt="-0.62"/>
+      <hotspot title="" pan="-129.61" id="Point02" description="" target="143.0/0.0/117.0" url="{node5}" skinid="ht_node" tilt="1.01"/>
+      <hotspot title="" pan="-190.57" id="Point03" description="" target="33.7/-0.8/117.8" url="{node8}" skinid="ht_node" tilt="-0.9"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:40" nodeid="node5" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-10.77" id="Point01" description="" target="56.0/0.0/126.6" url="{node4}" skinid="ht_node" tilt="0.65"/>
+      <hotspot title="" pan="-176.77" id="Point02" description="" target="-1.6/-0.2/117.0" url="{node6}" skinid="ht_node" tilt="-0.51"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:45" nodeid="node8" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-138.51" id="Point01" description="" target="0.0/0.0/100.0" url="{node4}" skinid="ht_node" tilt="-3.18"/>
+      <hotspot title="" pan="-238.64" id="Point02" description="" target="84.6/-5.8/100.0" url="{node7}" skinid="ht_node" tilt="-4.89"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:44" nodeid="node7" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-286.04" id="Point01" description="" target="80.1/-4.6/117.0" url="{node15}" skinid="ht_node" tilt="-2.36"/>
+      <hotspot title="" pan="-0.66" id="Point02" description="" target="-176.0/0.0/136.9" url="{node12}" skinid="ht_node" tilt="-1.05"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:45" nodeid="node9" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-86.34" id="Point01" description="" target="88.4/-1.8/100.0" url="{node3}" skinid="ht_node" tilt="-2.27"/>
+      <hotspot title="" pan="-355.96" id="Point02" description="" target="-94.0/0.0/117.0" url="{node10}" skinid="ht_node" tilt="-1.77"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:47" nodeid="node10" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-273.46" id="Point01" description="" target="-177.0/0.0/108.2" url="{node9}" skinid="ht_node" tilt="-1.36"/>
+      <hotspot title="" pan="-89.53" id="Point02" description="" target="-67.0/0.0/108.2" url="{node11}" skinid="ht_node" tilt="-3.13"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:48" nodeid="node11" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-238.26" id="Point01" description="" target="82.0/0.0/126.6" url="{node10}" skinid="ht_node" tilt="-1.81"/>
+      <hotspot title="" pan="-175.81" id="Point02" description="" target="52.0/0.0/136.9" url="{node1}" skinid="ht_node" tilt="-1.59"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="0" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1632" levelbias="0.400">
+      <level predecode="0" preload="0" width="1632" height="1632"/>
+      <level predecode="0" preload="0" width="816" height="816"/>
+      <level predecode="1" preload="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata title="" longitude="" description="" author="" info="" comment="" source="" customnodeid="" datetime="30/05/2025 10:49" nodeid="node12" latitude="" heading="0" copyright="" tags="ChurrascariaLeao"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" width="180" backgroundalpha="1" wordwrap="1" border="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" pan="-352.21" id="Point01" description="" target="170.1/1.5/149.7" url="{node7}" skinid="ht_node" tilt="-6.74"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" zoomout="0" zoomin="0" zoomafterinfov="140" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" blendtime="1" type="crossdissolve" enabled="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" zoomcentercursor="1" lockedmouse="0" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" description="" author="" comment="" copyright="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
